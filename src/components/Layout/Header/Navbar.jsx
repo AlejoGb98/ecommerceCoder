@@ -1,4 +1,4 @@
-import banner from '../../../img/banner_nietitos.jpg'
+
 import logo from '../../../img/logo.png'
 
 //Importacion de componentes
@@ -21,10 +21,6 @@ const Navbar = () => {
           <li> <CartWidget /> </li>
         </ul>
       </div>
-
-      <img src={banner} alt="" className=''/>
-
-
 
     </div>
   )
