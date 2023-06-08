@@ -9,7 +9,8 @@ export default {
       'azul': '#2B54E7',
       'celeste': '#77B6EA',
       'white': '#FFF',
-      'grey': '#F3F2F2'
+      'grey': '#F3F2F2',
+      'naranja': '#FFB256'
 
     }
   },
